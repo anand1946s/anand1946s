@@ -79,7 +79,7 @@ These are the projects shaping my GitHub right now:
 
 ### 📫 Connect With Me
 <p>
-  <a href="www.linkedin.com/in/anand1946"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/anand1946s/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
 ---
