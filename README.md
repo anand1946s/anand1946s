@@ -1,88 +1,45 @@
-<h1 align="center">Hi 👋, I'm Anand </h1>
-<h3 align="center">ML Learner | Backend Developer </h3>
+<h1 align="center">Anand</h1>
+<h3 align="center">CS undergrad | Systems & ML fundamentals</h3>
 
 ---
 
-### 🧠 What I'm focusing on right now
-- Learning Machine Learning from first principles  
-- Implementing core ML algorithms from scratch (math → code → experiments)  
-- Building backend systems using **FastAPI**, Python, and clean architecture  
-- Preparing to build my first small-scale **LLM**  
-- Improving my understanding of optimization, probability, and training pipelines  
+### Current focus
+- Writing Python programs that handle real I/O, data flow, and failure cases  
+- Understanding OS, DBMS, and process-level behavior through experiments  
+- Building CLI-first tools before adding any UI  
+- Learning ML from first principles (math → code → training loop)
 
 ---
 
-### 🔥 Areas I'm serious about
-- Machine Learning theory  
-- Model training & evaluation  
-- Neural networks from scratch  
-- Backend APIs & microservices  
-- Clean, maintainable backend architecture  
-- Systems thinking (how ML fits into real applications)
+### What I work on
+- Backend logic and data pipelines
+- Program structure and separation of concerns
+- Debugging, tracing, and profiling
+- Re-implementing basic ML models to understand training and optimization
 
 ---
 
-### 🛠 My Tech Stack
+### Projects
+- **VisualGS**  
+  CLI-based ground station for rocket telemetry  
+  Features: packet parsing, CSV replay, health monitoring, plotting  
+  Focus: structure, data flow, reproducibility
 
-#### **ML / AI**
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=pytorch" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-  <img src="https://skillicons.dev/icons?i=sklearn" />
-</p>
+- **Systems experiments**  
+  Shell scripts, file I/O, process behavior, syscall observation
 
-#### **Backend / Systems**
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=fastapi" />
-  <img src="https://skillicons.dev/icons?i=postgres" />
-  <img src="https://skillicons.dev/icons?i=redis" />
-  <img src="https://skillicons.dev/icons?i=docker" />
-</p>
-
-#### **Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=linux" />
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=vscode" />
-</p>
+- **ML fundamentals (scratch work)**  
+  Linear regression, logistic regression, gradient descent implementations
 
 ---
 
-### 📌 What I'm building next
-These are the projects shaping my GitHub right now:
-
-- **ML-from-scratch series**  
-  Implementing logistic regression → softmax → neural networks without libraries.
-
-- **FastAPI microservices**  
-  Building clean, modular backend systems with proper architecture.
-
-- **A small LLM project (WIP)**  
-  Tokenizer → dataset → tiny transformer → inference script.
-
-- **Experimentation repo**  
-  Training scripts, visualizations, optimization experiments, learning notes.
+### Tools I actually use
+- Python
+- Linux
+- Git
+- SQL (basics)
+- FastAPI (backend understanding)
+- Matplotlib
 
 ---
-
-### 🌱 Learning Roadmap (short version)
-- Linear algebra, calculus, probability  
-- Optimization: gradient descent, loss landscapes  
-- Classical ML models  
-- Neural networks from scratch  
-- Model serving and backend integration  
-- Systems patterns for ML deployment  
-
----
-
-### 📫 Connect With Me
-<p>
-  <a href="https://www.linkedin.com/in/anand1946s/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-</p>
-
----
-
-<h4 align="center">Building real understanding one line of code at a time.</h4>
 
